@@ -47,7 +47,7 @@ The secret is the source map: a JSON file whose `mappings` string looks like a c
 Needs [Node.js](https://nodejs.org) 18 or newer. There are no dependencies to install.
 
 ```bash
-git clone https://github.com/<your-username>/who-wrote-that.git
+git clone https://github.com/Megghaanaa/who-wrote-that.git
 cd who-wrote-that
 
 # Decode every mapping in the example, with the raw deltas
