@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="A long strip of minified code with one block pointing to a neat line of original code">
+  <rect width="128" height="128" rx="24" fill="#0b1220"/>
+  <g fill="#6b7a99">
+    <rect x="12" y="24" width="10" height="9" rx="2"/>
+    <rect x="25" y="24" width="10" height="9" rx="2"/>
+    <rect x="38" y="24" width="10" height="9" rx="2"/>
+    <rect x="51" y="24" width="10" height="9" rx="2"/>
+    <rect x="64" y="24" width="10" height="9" rx="2"/>
+    <rect x="90" y="24" width="10" height="9" rx="2"/>
+    <rect x="103" y="24" width="10" height="9" rx="2"/>
+  </g>
+  <rect x="77" y="24" width="10" height="9" rx="2" fill="#ffd166"/>
+  <path d="M82 40 V60" stroke="#ffd166" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 6"/>
+  <polygon points="75,60 89,60 82,71" fill="#ffd166"/>
+  <g fill="#4da3ff">
+    <rect x="18" y="82" width="70" height="8" rx="3"/>
+    <rect x="18" y="108" width="60" height="8" rx="3"/>
+  </g>
+  <rect x="30" y="95" width="52" height="8" rx="3" fill="#ffd166"/>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "name": "who-wrote-that",
+  "version": "0.1.0",
+  "description": "Decoding source maps by hand: Base64 VLQ, delta-encoded mappings, and what happens when one number is wrong. Work in progress.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "decode": "node src/inspect.js examples/add.min.js.map",
+    "lookup": "node src/lookup.js examples/add.min.js.map 1 15",
+    "frame": "node src/frame.js",
+    "example": "node examples/make-example.js",
+    "test": "node --test"
+  }
+}
