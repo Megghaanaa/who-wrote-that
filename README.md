@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.svg" width="120" alt="A long strip of minified code with one block pointing to a neat line of original code">
+  <img src="icon.svg" width="120" alt="A long strip of minified code with one block pointing to a neat line of original code">
 </p>
 
 <h1 align="center">🗺️ Line 1, Column 48,213: Who Wrote That?</h1>
